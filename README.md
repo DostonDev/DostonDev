@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dastonbek</h1>
-<h3 align="center">Student of TUIT🌟.</h3>
+<h3 align="center">Student of TUIT🌟</h3>
 
 <br>
 
@@ -25,7 +25,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
