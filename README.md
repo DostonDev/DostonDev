@@ -24,9 +24,9 @@
   <a href="#" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://telegram.me/daston_dev" target="blank"><img align="center"
+  <a href="https://telegram.me/daston_dev" target="_blank"><img align="center"
       src="https://img.icons8.com/color/344/telegram-app--v1.png"
-      alt="adampithewan" height="40" width="40" /></a>
+      alt="adampithewan" height="38" width="40" /></a>
 </p>
 
 <br>
