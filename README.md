@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🌱 I’m currently learning MERN Stack and other programming languages
+- 🌱 I’m MERN Stack Developer
 
 - 📫 How to reach me **dastondev0121@gmail.com**
 
@@ -80,17 +80,17 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=DostonDev&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=DostonDev&theme=radical&show_icons=true&locale=en&layout=compact"
     alt="adam-pw" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DostonDev&show_icons=true&locale=en"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DostonDev&theme=radical&show_icons=true&locale=en"
     alt="adam-pw" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DostonDev&" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DostonDev&theme=radical" alt="adam-pw" /></p>
 
 <br>
 
