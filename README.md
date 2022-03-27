@@ -33,6 +33,18 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -60,3 +72,23 @@
       height="40" /> </a> </p>
 
 <br>
+
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dastondev&show_icons=true&locale=en&layout=compact"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dastondev&show_icons=true&locale=en"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dastondev&" alt="adam-pw" /></p>
+
+<br>
+
+
+
